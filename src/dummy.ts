@@ -1,5 +1,5 @@
 export default class Dummy {
-    static returnThing() {
-        return 'thing'
-    }
+  static returnThing () {
+    return 'thing'
+  }
 }
